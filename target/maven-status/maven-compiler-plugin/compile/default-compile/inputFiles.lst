@@ -1,6 +1,7 @@
 /workspaces/OrderMgtSystem/src/main/java/com/itgenius/ordermgtsystem/OrderMgtSystemApplication.java
 /workspaces/OrderMgtSystem/src/main/java/com/itgenius/ordermgtsystem/common/BaseTimeEntity.java
 /workspaces/OrderMgtSystem/src/main/java/com/itgenius/ordermgtsystem/controller/OrderController.java
+/workspaces/OrderMgtSystem/src/main/java/com/itgenius/ordermgtsystem/controller/PageController.java
 /workspaces/OrderMgtSystem/src/main/java/com/itgenius/ordermgtsystem/controller/ProductController.java
 /workspaces/OrderMgtSystem/src/main/java/com/itgenius/ordermgtsystem/controller/StockController.java
 /workspaces/OrderMgtSystem/src/main/java/com/itgenius/ordermgtsystem/domain/Order.java
